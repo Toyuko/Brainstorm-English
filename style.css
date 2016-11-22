@@ -466,3 +466,198 @@ margin-left: 45px
 .sign_up_shadow .footer_area{
      margin-top: 180px
 }
+
+/*page css start here*/
+.page_header_bottom{
+    
+}.page_header_bottom h1{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-family: 'proximanovalight';
+    font-weight: bold;
+    color: black;
+    
+}.page_header_bottom p{
+    font-size: 22px;
+    font-family: 'proximanovalight';
+    margin-bottom: 70px;
+    margin-top: 70px;
+}.page_header_bottom button{
+    
+    font-family: 'proximanovalight';
+   height: 65px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+  
+    margin-bottom: 100px
+}
+.page_header_bottom button:last-child{
+   background: #fff
+    
+}
+.page_header_bottom{
+    margin-left: 80px
+}
+.page_header_bottom button:first-child{
+    background: #00A3EB;
+    color: #fff;
+    
+}.page_header_bottom button:first-child:hover{
+    background: #18B9F8;
+    
+    
+}
+.page_hease{
+    background:url(img/page_head_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_acation{
+    background: url(img/aviation.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_engniar{
+    background: url(img/engineering.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_finance{
+    background: url(img/finance.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_home_school{
+    background: url(img/homeschools.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_hospitality{
+    background: url(img/hospitality.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_indepen_teacr{
+    background: url(img/teachers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_language_schook{
+    background: url(img/languageschools.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_logistics{
+    background: url(img/logistics.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_medicin{
+    background: url(img/medicine.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_oil_gas{
+    background: url(img/oilgas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_other{
+    background: url(img/business.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_selse{
+    background: url(img/sales.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease_tecnologis{
+    background: url(img/technology.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.page_hease .header_inner batton:hover{
+    background: #fff;
+}
+.page_content .page_content_left{
+    width: 400px;
+    margin-left: 20%
+}.page_content .page_content_left h2{
+   margin-bottom: 30px;
+    font-family: 'proximanovalight';
+    color: #00A3EB;
+    font-weight: bold;
+}.page_content .page_content_right h2{
+   margin-bottom: 30px;
+    font-family: 'proximanovalight';
+    color: #00A3EB;
+    font-weight: bold;
+}.page_content .page_content_left ul{
+   
+}
+.page_content .page_content_left ul li{
+    position: relative;
+    font-family: 'proximanovalight';
+    color: black;
+
+}.page_content .page_content_left ul li:before{
+content: '';
+    position: absolute;
+    height: 7px;
+    width: 7px;
+    background: #00A3EB;
+    border-radius: 50%;
+    left: 0;
+    margin-left: -17px;
+    margin-top: 10px
+}.page_content .page_content_right ul li{
+    position: relative;
+    line-height: 28px;
+    margin-top: 10px;
+    font-family: 'proximanovalight';
+    color: black;
+
+}.page_content .page_content_left ul li{
+    position: relative;
+    line-height: 28px;
+    margin-top: 10px
+
+}.page_content .page_content_right ul li:before{
+content: '';
+    position: absolute;
+    height: 7px;
+    width: 7px;
+    background: #00A3EB;
+    border-radius: 50%;
+    left: 0;
+    margin-left: -17px;
+    margin-top: 10px;
+}
+.page_content .page_content_right{
+    width: 400px;
+    margin-left: 10%
+    
+}
+.page_content{
+    margin-top: 50px;
+}
+.page_comment{
+    margin-top: 20px
+}
+.page_comment_innner{
+    background: #F5F5F5;
+    padding-top: 20px;
+    padding-bottom: 20px
+}.page_comment_innner img{
+    border-radius: 500px
+}.page_comment_innner q{
+    margin-top: 80px;
+    display: block;
+    margin-left: 60px
+}.page_comment_innner city{
+    display: block;
+    margin-top: 20px;
+    margin-left: 60px
+}
