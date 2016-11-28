@@ -28,16 +28,17 @@ img{
 .head_in{
     position: fixed;
     background: #fff;
-    z-index: 999
+    z-index: 999;
+	height: 100px;
 }
 .video_area_inner{
     margin-top: 102px;
 }
 .header_area .logo{
-    text-align: right;
-}.header_area .logo img{
-    width: 182px;
-    height: 40px;
+    text-align: left;
+	}.header_area .logo img{
+    width: 102px;
+    height: 70px;
     
 }.header_area .nav-bar>ul{
     display: inline-flex;
