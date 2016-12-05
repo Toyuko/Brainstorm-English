@@ -477,12 +477,13 @@ margin-left: 45px
     font-family: 'proximanovalight';
     font-weight: bold;
     color: black;
+	font-size: 42px;
     
 }.page_header_bottom p{
     font-size: 22px;
     font-family: 'proximanovalight';
-    margin-bottom: 70px;
-    margin-top: 70px;
+    margin-bottom: 65px;
+    margin-top: 0px;
 }.page_header_bottom button{
     
     font-family: 'proximanovalight';
@@ -509,6 +510,14 @@ margin-left: 45px
     
     
 }
+.page_bio { 
+background: url(img/biocover2.jpg); 
+background-repeat: no-repeat; 
+background-size: cover}
+.page_teachingm { 
+background: url(img/teachingmethodcove2r.jpg); 
+background-repeat: no-repeat; 
+background-size: cover}
 .page_hease{
     background:url(img/page_head_bg.jpg);
     background-repeat: no-repeat;
