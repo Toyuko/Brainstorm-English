@@ -510,6 +510,14 @@ margin-left: 45px
     
     
 }
+.page_courses1 { 
+background: url(img/courses1.jpg); 
+background-repeat: no-repeat; 
+background-size: cover}
+.page_courses2 { 
+background: url(img/courses2.jpg); 
+background-repeat: no-repeat; 
+background-size: cover}
 .page_bio { 
 background: url(img/biocover2.jpg); 
 background-repeat: no-repeat; 
@@ -671,3 +679,4 @@ content: '';
     margin-top: 20px;
     margin-left: 60px
 }
+
