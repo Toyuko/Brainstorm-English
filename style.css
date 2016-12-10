@@ -510,6 +510,14 @@ margin-left: 45px
     
     
 }
+.page_gallery  {
+background: url(img/gallerycover.jpg); 
+background-repeat: no-repeat; 
+background-size: cover}
+.page_prices  {
+background: url(img/pricescover.jpg); 
+background-repeat: no-repeat; 
+background-size: cover}
 .page_courses1 { 
 background: url(img/courses1.jpg); 
 background-repeat: no-repeat; 
@@ -679,4 +687,17 @@ content: '';
     margin-top: 20px;
     margin-left: 60px
 }
+.img {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+    -webkit-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    margin-bottom:20px;
+}
 
+.img:hover {
+  filter: none; /* IE6-9 */
+  -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
+ 
+}
