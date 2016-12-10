@@ -510,6 +510,14 @@ margin-left: 45px
     
     
 }
+.page_contactus  {
+background: url(img/contactuscover.jpg); 
+background-repeat: no-repeat; 
+background-size: cover}
+.page_location  {
+background: url(img/locationheader.jpg); 
+background-repeat: no-repeat; 
+background-size: cover}
 .page_gallery  {
 background: url(img/gallerycover.jpg); 
 background-repeat: no-repeat; 
